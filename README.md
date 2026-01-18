@@ -35,8 +35,8 @@ A simple bash script to backup configuration files for AdGuard Home and PiAware 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pi-backup-script.git
-cd pi-backup-script
+git clone https://github.com/FranklyFuzzy/pi-backup.git
+cd pi-backup
 
 # Make the script executable
 chmod +x pi-backup.sh
